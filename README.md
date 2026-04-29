@@ -46,3 +46,8 @@ Hasil evaluasi pada **Test Set** menunjukkan performa yang sangat solid:
 
 - **Loss:** Tidak menunjukkan indikasi overfitting; kurva Train dan Val menurun secara konvergen.
 - **Accuracy:** Stabil di angka >99% pada akhir epoch.
+
+### Detection Result with Grad-CAM Diagnostic Visualization
+![Alt text](img/result(1).jpeg)
+![Alt text](img/result(2).jpeg)
+
